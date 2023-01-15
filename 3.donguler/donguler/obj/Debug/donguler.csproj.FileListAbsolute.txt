@@ -1,0 +1,16 @@
+C:\Users\stumer\Desktop\udemy_c#\donguler\donguler\bin\Debug\donguler.exe.config
+C:\Users\stumer\Desktop\udemy_c#\donguler\donguler\bin\Debug\donguler.exe
+C:\Users\stumer\Desktop\udemy_c#\donguler\donguler\bin\Debug\donguler.pdb
+C:\Users\stumer\Desktop\udemy_c#\donguler\donguler\obj\Debug\donguler.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\udemy_c#\donguler\donguler\obj\Debug\donguler.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\udemy_c#\donguler\donguler\obj\Debug\donguler.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\udemy_c#\donguler\donguler\obj\Debug\donguler.exe
+C:\Users\stumer\Desktop\udemy_c#\donguler\donguler\obj\Debug\donguler.pdb
+C:\Users\stumer\Desktop\c#_console\3.donguler\donguler\bin\Debug\donguler.exe.config
+C:\Users\stumer\Desktop\c#_console\3.donguler\donguler\bin\Debug\donguler.exe
+C:\Users\stumer\Desktop\c#_console\3.donguler\donguler\bin\Debug\donguler.pdb
+C:\Users\stumer\Desktop\c#_console\3.donguler\donguler\obj\Debug\donguler.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\c#_console\3.donguler\donguler\obj\Debug\donguler.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\c#_console\3.donguler\donguler\obj\Debug\donguler.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\c#_console\3.donguler\donguler\obj\Debug\donguler.exe
+C:\Users\stumer\Desktop\c#_console\3.donguler\donguler\obj\Debug\donguler.pdb

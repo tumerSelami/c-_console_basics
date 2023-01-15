@@ -1,0 +1,8 @@
+C:\Users\stumer\Desktop\c#_console\5.metotlar\5.metotlar\bin\Debug\5.metotlar.exe.config
+C:\Users\stumer\Desktop\c#_console\5.metotlar\5.metotlar\bin\Debug\5.metotlar.exe
+C:\Users\stumer\Desktop\c#_console\5.metotlar\5.metotlar\bin\Debug\5.metotlar.pdb
+C:\Users\stumer\Desktop\c#_console\5.metotlar\5.metotlar\obj\Debug\5.metotlar.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\c#_console\5.metotlar\5.metotlar\obj\Debug\5.metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\c#_console\5.metotlar\5.metotlar\obj\Debug\5.metotlar.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\c#_console\5.metotlar\5.metotlar\obj\Debug\5.metotlar.exe
+C:\Users\stumer\Desktop\c#_console\5.metotlar\5.metotlar\obj\Debug\5.metotlar.pdb

@@ -1,0 +1,16 @@
+C:\Users\stumer\Desktop\udemy_c#\4.diziler\4.diziler\bin\Debug\4.diziler.exe.config
+C:\Users\stumer\Desktop\udemy_c#\4.diziler\4.diziler\bin\Debug\4.diziler.exe
+C:\Users\stumer\Desktop\udemy_c#\4.diziler\4.diziler\bin\Debug\4.diziler.pdb
+C:\Users\stumer\Desktop\udemy_c#\4.diziler\4.diziler\obj\Debug\4.diziler.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\udemy_c#\4.diziler\4.diziler\obj\Debug\4.diziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\udemy_c#\4.diziler\4.diziler\obj\Debug\4.diziler.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\udemy_c#\4.diziler\4.diziler\obj\Debug\4.diziler.exe
+C:\Users\stumer\Desktop\udemy_c#\4.diziler\4.diziler\obj\Debug\4.diziler.pdb
+C:\Users\stumer\Desktop\c#_console\4.diziler\4.diziler\bin\Debug\4.diziler.exe.config
+C:\Users\stumer\Desktop\c#_console\4.diziler\4.diziler\bin\Debug\4.diziler.exe
+C:\Users\stumer\Desktop\c#_console\4.diziler\4.diziler\bin\Debug\4.diziler.pdb
+C:\Users\stumer\Desktop\c#_console\4.diziler\4.diziler\obj\Debug\4.diziler.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\c#_console\4.diziler\4.diziler\obj\Debug\4.diziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\c#_console\4.diziler\4.diziler\obj\Debug\4.diziler.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\c#_console\4.diziler\4.diziler\obj\Debug\4.diziler.exe
+C:\Users\stumer\Desktop\c#_console\4.diziler\4.diziler\obj\Debug\4.diziler.pdb

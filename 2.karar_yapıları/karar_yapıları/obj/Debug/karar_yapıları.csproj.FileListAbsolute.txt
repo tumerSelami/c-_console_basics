@@ -1,0 +1,16 @@
+C:\Users\tumer\source\repos\karar_yapıları\karar_yapıları\obj\Debug\karar_yapıları.csproj.AssemblyReference.cache
+C:\Users\tumer\source\repos\karar_yapıları\karar_yapıları\obj\Debug\karar_yapıları.csproj.SuggestedBindingRedirects.cache
+C:\Users\tumer\source\repos\karar_yapıları\karar_yapıları\obj\Debug\karar_yapıları.csproj.CoreCompileInputs.cache
+C:\Users\tumer\source\repos\karar_yapıları\karar_yapıları\bin\Debug\karar_yapıları.exe.config
+C:\Users\tumer\source\repos\karar_yapıları\karar_yapıları\bin\Debug\karar_yapıları.exe
+C:\Users\tumer\source\repos\karar_yapıları\karar_yapıları\bin\Debug\karar_yapıları.pdb
+C:\Users\tumer\source\repos\karar_yapıları\karar_yapıları\obj\Debug\karar_yapıları.exe
+C:\Users\tumer\source\repos\karar_yapıları\karar_yapıları\obj\Debug\karar_yapıları.pdb
+D:\source\repos\karar_yapıları\karar_yapıları\bin\Debug\karar_yapıları.exe.config
+D:\source\repos\karar_yapıları\karar_yapıları\bin\Debug\karar_yapıları.exe
+D:\source\repos\karar_yapıları\karar_yapıları\bin\Debug\karar_yapıları.pdb
+D:\source\repos\karar_yapıları\karar_yapıları\obj\Debug\karar_yapıları.csproj.AssemblyReference.cache
+D:\source\repos\karar_yapıları\karar_yapıları\obj\Debug\karar_yapıları.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\karar_yapıları\karar_yapıları\obj\Debug\karar_yapıları.csproj.CoreCompileInputs.cache
+D:\source\repos\karar_yapıları\karar_yapıları\obj\Debug\karar_yapıları.exe
+D:\source\repos\karar_yapıları\karar_yapıları\obj\Debug\karar_yapıları.pdb

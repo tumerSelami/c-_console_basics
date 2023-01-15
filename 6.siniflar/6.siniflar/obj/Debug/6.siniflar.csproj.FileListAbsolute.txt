@@ -1,0 +1,16 @@
+C:\Users\stumer\Desktop\c#_console\6.siniflar\6.siniflar\bin\Debug\6.siniflar.exe.config
+C:\Users\stumer\Desktop\c#_console\6.siniflar\6.siniflar\bin\Debug\6.siniflar.exe
+C:\Users\stumer\Desktop\c#_console\6.siniflar\6.siniflar\bin\Debug\6.siniflar.pdb
+C:\Users\stumer\Desktop\c#_console\6.siniflar\6.siniflar\obj\Debug\6.siniflar.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\c#_console\6.siniflar\6.siniflar\obj\Debug\6.siniflar.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\c#_console\6.siniflar\6.siniflar\obj\Debug\6.siniflar.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\c#_console\6.siniflar\6.siniflar\obj\Debug\6.siniflar.exe
+C:\Users\stumer\Desktop\c#_console\6.siniflar\6.siniflar\obj\Debug\6.siniflar.pdb
+C:\Users\stumer\Desktop\cs_console\6.siniflar\6.siniflar\bin\Debug\6.siniflar.exe.config
+C:\Users\stumer\Desktop\cs_console\6.siniflar\6.siniflar\bin\Debug\6.siniflar.exe
+C:\Users\stumer\Desktop\cs_console\6.siniflar\6.siniflar\bin\Debug\6.siniflar.pdb
+C:\Users\stumer\Desktop\cs_console\6.siniflar\6.siniflar\obj\Debug\6.siniflar.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_console\6.siniflar\6.siniflar\obj\Debug\6.siniflar.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_console\6.siniflar\6.siniflar\obj\Debug\6.siniflar.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_console\6.siniflar\6.siniflar\obj\Debug\6.siniflar.exe
+C:\Users\stumer\Desktop\cs_console\6.siniflar\6.siniflar\obj\Debug\6.siniflar.pdb
